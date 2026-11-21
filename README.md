@@ -16,7 +16,7 @@
 روی هر سرور اوبنتو ۲۲ یا ۲۴ این خط را بزن؛ خودش باینری را از گیت‌هاب می‌کِشد و نصاب بالا می‌آید:
 
 ```bash
-curl -fL https://raw.githubusercontent.com/amirm505k1-crypto/Miki/main/miki-linux-amd64 -o /usr/local/bin/miki && chmod +x /usr/local/bin/miki && miki
+curl -fL https://raw.githubusercontent.com/mohammadspoof/SPOOF/main/miki-linux-amd64 -o /usr/local/bin/miki && chmod +x /usr/local/bin/miki && miki
 ```
 
 نصاب تعاملی می‌پرسد: پورت پنل، نام کاربری، رمز (هر چیزی، حتی یک حرف)، آیپی سرور (Enter = خودکار) و SSL. در پایان آدرس پنل و نام کاربری و رمز را نشان می‌دهد.
